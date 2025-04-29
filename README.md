@@ -10,6 +10,7 @@ The goal is to provide actionable insights to improve business performance and c
  •	Data Sources:
    1. `customer_orders`: Contains order-level details.
    2. `payments`: Contains payment transaction details.
+   3. `cohort table`: Created and Used for cohort analysis.
     
 •	Joins & Filtering:
 1. Orders and payments are joined on `order_id` for comprehensive reporting.
