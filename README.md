@@ -41,6 +41,7 @@ The goal is to provide actionable insights to improve business performance and c
 ### 3. Visualization & Reporting
   
 •	Data is prepared for visualization of trends and cohort tables using `Tableau`.
+
 •	Key findings are summarized for business applications.
 
 ## How to Use
